@@ -8,4 +8,6 @@ letting us move back and forth through time.
 For example, in this first version of the file we
 will say that the cat goes meow.
 
+will say that the cat goes meow and kittens are cute.
+
 That is all
